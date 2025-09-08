@@ -28,8 +28,8 @@ A simple Python script to rename Quran MP3 files with their corresponding Surah 
 
 3. Edit the script `rename_quran_mp3.py` and set:
    ```python
-   source_folder = "input"
-   destination_folder = "output"
+   source_folder = "input", example: "/home/prof_abdelrahman/Quran/Abdulbasit_Abdulsamad_(MP3_Quran)"
+   destination_folder = "output", example: "example: "/home/prof_abdelrahman/Quran/Abdulbasit_Abdulsamad_(MP3_Quran)/New_Folder"
    ```
 
 4. Run the script:
